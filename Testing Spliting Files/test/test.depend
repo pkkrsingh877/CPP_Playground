@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1603368372 source:d:\creating in c++\testing spliting files\test\main.cpp
+	<iostream>
+	"MyClass.h"
+
+1603372446 d:\creating in c++\testing spliting files\test\myclass.h
+
+1603372409 source:d:\creating in c++\testing spliting files\test\myclass.cpp
+	"MyClass.h"
+	<iostream>
+
